@@ -1,4 +1,4 @@
-Subtitle downloader
+CLI Subtitle downloader
 =================
 
 Download subtitles from the command line. Uses the api from http://thesubdb.com.
