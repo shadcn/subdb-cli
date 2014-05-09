@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/arshad/subdb",
   "dependencies": {
-    "request": "~2.34.0"
+    "request": "~2.34.0",
+    "commander": "~2.2.0"
   }
 }
