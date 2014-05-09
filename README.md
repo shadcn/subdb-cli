@@ -6,14 +6,14 @@ Download subtitles from the command line. Uses the api from http://thesubdb.com.
 Installation
 --------------
 
-    $ npm install subdb
+    $ npm install subdb-cli
 
 Usage
 --------------
 
 Generate a license
 
-    $ subdb download [file]
+    $ subdb-cli download [file]
     
 Options
 --------------
@@ -23,8 +23,8 @@ Options
 Examples
 --------------
 
-    $ subdb download movie.avi
-    $ subdb download movie.avi -l en
+    $ subdb-cli download movie.avi
+    $ subdb-cli download movie.avi -l en
     
 License
 --------------

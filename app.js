@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 var program = require('commander');
-var Subdb = require('./lib/subdb.js');
+var subdb = require('./lib/subdb-cli.js');
 
 // Get version from package.json.
 var version = require('./package.json').version;
@@ -22,7 +22,7 @@ program
     }
 
     // Download the subtitle.
-    Subdb.download(file);
+    subdb.download(file);
   });
 
 // Examples.
