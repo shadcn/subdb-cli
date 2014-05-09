@@ -6,7 +6,7 @@ Download subtitles from the command line. Uses the api from http://thesubdb.com.
 Installation
 --------------
 
-    $ npm install subdb-cli
+    $ npm install -g subdb-cli
 
 Usage
 --------------
