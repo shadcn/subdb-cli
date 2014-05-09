@@ -23,8 +23,8 @@ Options
 Examples
 --------------
 
-    $ subdb-cli download movie.avi
-    $ subdb-cli download movie.avi -l en
+    $ subdb-cli download ./movie.avi
+    $ subdb-cli download ./movie.avi -l en
     
 License
 --------------
