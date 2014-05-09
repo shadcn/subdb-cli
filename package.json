@@ -1,7 +1,7 @@
 {
-  "name": "subdb",
+  "name": "subdb-cli",
   "version": "0.1.0",
-  "description": "A Node implementation for the subdb API.",
+  "description": "Download subtitles from the command line. Uses the api from http://thesubdb.com.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/arshad/subdb/issues"
   },
+  "readmeFilename": "README.md",
   "homepage": "https://github.com/arshad/subdb",
   "dependencies": {
     "request": "~2.34.0",
