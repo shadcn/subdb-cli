@@ -1,0 +1,25 @@
+{
+  "name": "subdb",
+  "version": "0.1.0",
+  "description": "A node implementation for the subdb API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:arshad/subdb.git"
+  },
+  "keywords": [
+    "subdb",
+    "node",
+    "subtitle",
+    "downloader"
+  ],
+  "author": "Arshad Chummun <arshad@chummun.com> (http://arshad.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arshad/subdb/issues"
+  },
+  "homepage": "https://github.com/arshad/subdb"
+}
