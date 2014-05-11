@@ -14,6 +14,7 @@ program
  */
 program
   .command('download [file]')
+  .option("-l, --language <language>", 'The language of the subtitle.')
   .description('Use this command to download subtitle for a file.')
   .action(function(file, options){
     if (!file) {
@@ -21,8 +22,11 @@ program
       program.help();
     }
 
+    // Use provided language or default to en.
+    var language = options.language || 'en';
+
     // Download the subtitle.
-    subdb.download(file);
+    subdb.download(file, language);
   });
 
 // Examples.
