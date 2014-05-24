@@ -33,7 +33,7 @@ program
 program.on('--help', function(){
   console.log('  Examples:');
   console.log('');
-  console.log('    $ subdb download video.avi');
+  console.log('    $ subdb-cli download video.avi');
   console.log('');
 });
 
