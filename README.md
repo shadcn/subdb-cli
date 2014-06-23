@@ -13,7 +13,7 @@ Usage
 
 Generate a license
 
-    $ subdb-cli download [file]
+    $ subdb download [file]
     
 Options
 --------------
@@ -23,8 +23,8 @@ Options
 Examples
 --------------
 
-    $ subdb-cli download ./movie.avi
-    $ subdb-cli download ./movie.avi -l en
+    $ subdb download ./movie.avi
+    $ subdb download ./movie.avi -l en
     
 License
 --------------
