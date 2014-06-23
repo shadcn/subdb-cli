@@ -4,7 +4,7 @@
   "description": "Download subtitles from the command line. Uses the api from http://thesubdb.com.",
   "main": "app.js",
   "preferGlobal": "true",
-  "bin": { "subdb-cli": "app.js" },
+  "bin": { "subdb": "app.js" },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
