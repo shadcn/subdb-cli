@@ -11,7 +11,7 @@ Installation
 Usage
 --------------
 
-Generate a license
+Download subtitle:
 
     $ subdb download [file]
     
