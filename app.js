@@ -10,7 +10,7 @@ program
 
 /**
  * Download command.
- * subdb download [file].
+ * Example: subdb download [file].
  */
 program
   .command('download [file]')
