@@ -1,6 +1,6 @@
 {
   "name": "subdb-cli",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Download subtitles from the command line. Uses the api from http://thesubdb.com.",
   "main": "app.js",
   "preferGlobal": "true",
@@ -27,6 +27,6 @@
   "homepage": "https://github.com/arshad/subdb-cli",
   "dependencies": {
     "request": "~2.34.0",
-    "commander": "~2.2.0"
+    "commander": "~2.3.0"
   }
 }
