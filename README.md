@@ -14,6 +14,7 @@ Usage
 Download subtitle:
 
     $ subdb download [file]
+    $ subdb d [file]
     
 Options
 --------------
@@ -24,7 +25,7 @@ Examples
 --------------
 
     $ subdb download ./movie.avi
-    $ subdb download ./movie.avi -l en
+    $ subdb d ./movie.avi -l en
     
 License
 --------------
