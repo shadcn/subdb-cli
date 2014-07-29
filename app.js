@@ -14,6 +14,7 @@ program
  */
 program
   .command('download [file]')
+  .alias('d')
   .option("-l, --language <language>", 'The language of the subtitle.')
   .description('Use this command to download subtitle for a file.')
   .action(function(file, options){
