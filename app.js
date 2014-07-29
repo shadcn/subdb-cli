@@ -35,6 +35,7 @@ program.on('--help', function(){
   console.log('  Examples:');
   console.log('');
   console.log('    $ subdb download video.avi');
+  console.log('    $ subdb d video.avi');
   console.log('');
 });
 
