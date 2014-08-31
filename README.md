@@ -19,7 +19,7 @@ Download subtitle:
 Options
 --------------
 
-    -l, --language Language for the subtitle.
+    -l, --language Language for the subtitle. Defaults to English.
 
 Examples
 --------------
