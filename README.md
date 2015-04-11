@@ -3,6 +3,8 @@ CLI Subtitle downloader
 
 Download subtitles from the command line. Uses the api from http://thesubdb.com.
 
+![demo](https://cloud.githubusercontent.com/assets/124599/7159049/73c7273e-e390-11e4-85b1-38c09b020fa2.gif)
+
 Need a CLI for Pirate Bay? Try [kaizoku](https://github.com/arshad/kaizoku).
 
 Installation
