@@ -4,7 +4,9 @@
   "description": "Download subtitles from the command line. Uses the api from http://thesubdb.com.",
   "main": "app.js",
   "preferGlobal": "true",
-  "bin": { "subdb": "app.js" },
+  "bin": {
+    "subdb": "app.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,7 +28,8 @@
   "readmeFilename": "README.md",
   "homepage": "https://github.com/arshad/subdb-cli",
   "dependencies": {
-    "request": "~2.34.0",
-    "commander": "~2.3.0"
+    "commander": "~2.3.0",
+    "iconv-lite": "^0.4.19",
+    "request": "~2.34.0"
   }
 }
