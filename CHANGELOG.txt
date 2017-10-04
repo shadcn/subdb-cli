@@ -1,0 +1,4 @@
+## 1.0.3 / 2017-10-04
+================
+dba3507 Make a charset conversion depending on the language due to subdb inability to set right set-encoding header
+047d3cf Fixed an issue in the lib calling download multiple times. See: https://github.com/joyent/node/issues/1415
