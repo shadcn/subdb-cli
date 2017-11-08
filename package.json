@@ -29,6 +29,7 @@
   "homepage": "https://github.com/arshad/subdb-cli",
   "dependencies": {
     "commander": "~2.3.0",
+    "detect-character-encoding": "^0.5.1",
     "iconv-lite": "^0.4.19",
     "request": "~2.34.0"
   }
